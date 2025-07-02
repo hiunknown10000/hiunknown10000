@@ -16,7 +16,7 @@
 - ⚡ Fact:  **Details matter....**
   
 <h3 align="center">Connect with me:</h3>
-~ 📫 How to reach me: mail at " hello_unknown10010@proton.me "
+~ 📫 How to reach me :   mail at   " hello_unknown10010@proton.me "
 
 
 <p align="left">
