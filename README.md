@@ -13,11 +13,12 @@
 
 - 💬 Ask me about: **Python, about Networking.**
 
+- ⚡ Fact:  **Details matter....**
+  
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: **hello_unknown10010@proton.me**
 
-- ⚡ Fact:  **Details matter....**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
