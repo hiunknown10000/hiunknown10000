@@ -19,29 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://dev.to/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://twitter.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://codesandbox.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://kaggle.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://fb.com/no_never" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="no_never" height="30" width="40" /></a>
-<a href="https://instagram.com/no_never" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="no_never" height="30" width="40" /></a>
-<a href="https://dribbble.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.behance.net/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://hashnode.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://medium.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/not_now" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/not_now😐" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="not_now😐" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/not_now😐" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="not_now😐" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="not_now" height="30" width="40" /></a>
-<a href="https://discord.gg/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="not_now" height="30" width="40" /></a>
-<a href="/not_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="not_now" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiunknown10000&show_icons=true&locale=en" alt="hiunknown10000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiunknown10000&" alt="hiunknown10000" /></p>
+
 
 <!---
 hiunknown10000/hiunknown10000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
