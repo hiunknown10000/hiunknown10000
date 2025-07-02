@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiunknown10000&show_icons=true&locale=en" alt="hiunknown10000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiunknown10000&" alt="hiunknown10000" /></p>
+<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiunknown10000&" alt="hiunknown10000" /></p>---!>
 
 
 <!---
