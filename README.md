@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiunknown10000" alt="hiunknown10000" /></a> </p>
 
-- 🔭 I’m currently working on **Hacking.py**
+- 🔭 I’m currently working on:  **Hacking.py**
 
-- 🌱 I’m currently learning **Networking, about OS, python, hacking.**
+- 🌱 I’m currently learning: **Networking, about OS, python, hacking.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hiunknown10000?tab=repositories](https://github.com/hiunknown10000?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/hiunknown10000?tab=repositories](https://github.com/hiunknown10000?tab=repositories)
 
-- 💬 Ask me about **Python, about Networking.**
+- 💬 Ask me about: **Python, about Networking.**
 
-- 📫 How to reach me **hello_unknown10010@proton.me**
+- 📫 How to reach me: **hello_unknown10010@proton.me**
 
-- ⚡ Fact **Details matter....**
+- ⚡ Fact:  **Details matter....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
