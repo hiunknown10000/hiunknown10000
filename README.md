@@ -7,9 +7,9 @@
 
 - 🌱 learning about: **Networking, about OS, python, hacking.**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/hiunknown10010?tab=repositories](https://github.com/hiunknown10010?tab=repositories)
+- 👨‍💻 Dive into [my projects on GitHub](https://github.com/hiunknown10000?tab=repositories&q=&type=public&language=&sort=)
 
-- 💬 Ask me about: **Python, about Networking.**
+- 💬 Ask me about: **Python, Networking, Linux, C, html, css.**
 
 - ⚡ Fact:  **Details matter....**
   
