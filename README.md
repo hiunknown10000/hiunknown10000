@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXUxMWVzZm9mZGFoa21uMnI3OXk2cTJyOHdpanFudW0wdzN2bXhyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlUvsXh3w7w2PUk/giphy.gif" height="40px" width="40px"> </h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXUxMWVzZm9mZGFoa21uMnI3OXk2cTJyOHdpanFudW0wdzN2bXhyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlUvsXh3w7w2PUk/giphy.gif" height="35px" width="35px"> </h1>
 <h3 align="center">This is a programmer and a learner of HACKING.</h3>
 
 
