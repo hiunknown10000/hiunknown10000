@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A programmer and a learner of HACKING.</h3>
+<h3 align="center">This is a programmer and a learner of HACKING.</h3>
 
 
 
